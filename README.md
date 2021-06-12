@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shomik-singh. I work as a software developer. 
-- 👀 I'm here to learn and grow my coding skills
+- 👀 I'm here to learn and grow my coding skills. I will host my projects and learning here.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 📫 How to reach me shomiksingh96@gmail.com
 
